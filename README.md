@@ -1,14 +1,11 @@
-
-- 👀 I’m interested in cyber security and artifical intelligence
 <h1 align="center">Hi 👋, I'm @timetravellerx</h1>
-<h3 align="center">Merhaba ben Bilgisayar Mühendisliği öğrencisiyim.</h3>
+<h3 align="center">Merhaba ben Zonguldak Bulent Ecevit Universitesi Bilgisayar Mühendisliği öğrencisiyim.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nili" alt="nili" /></a> </p>
 
 - 🔭 I’m currently working on **flutter projects**
-
+- 👀 I’m interested in cyber security and artifical intelligence
 - 🌱 I’m currently learning **Python and C++**
-
 - 📫 How to reach me **illacndmn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
