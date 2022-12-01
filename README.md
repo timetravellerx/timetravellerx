@@ -3,14 +3,14 @@
 <h3 align="center">Merhaba ben Zonguldak Bulent Ecevit Universitesi Bilgisayar Mühendisliği öğrencisiyim.</h3>
 
 - 🔭 I’m currently working on **flutter projects**
-- 👀 I’m interested in cyber security and artifical intelligence
+
 - 🌱 I’m currently learning **Python and C++**
+
 - 📫 How to reach me **illacndmn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c5%9fule-nilay-duman-282265241?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bipvjsu0orhssnyjm9ad1ow%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c5%9fule-nilay-duman-282265241?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bipvjsu0orhssnyjm9ad1ow%3d%3d" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20654601/timetravellerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20654601/timetravellerx" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/timetravellerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="timetravellerx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/illacndmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/illacndmn" height="30" width="40" /></a>
 </p>
 
