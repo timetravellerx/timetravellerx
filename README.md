@@ -2,10 +2,10 @@
 - 👀 I’m interested in cyber security and artifical intelligence
 - 🌱 I’m currently learning python and c#
 - 📫 How to reach me illacndmn@gmail.com
-### 📩 Connect with me:
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
