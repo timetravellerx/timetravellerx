@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @timetravellerx
 - 👀 I’m interested in cyber security and artifical intelligence
 - 🌱 I’m currently learning python and c#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
