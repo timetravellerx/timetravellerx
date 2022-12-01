@@ -3,10 +3,9 @@
 <h3 align="center">Merhaba ben Zonguldak Bulent Ecevit Universitesi Bilgisayar Mühendisliği öğrencisiyim.</h3>
 
 - 🔭 I’m currently working on **flutter projects**
-
 - 🌱 I’m currently learning **Python and C++**
-
 - 📫 How to reach me **illacndmn@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
